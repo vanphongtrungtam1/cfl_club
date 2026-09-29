@@ -1,0 +1,30 @@
+ENGLISH CLUB PROPOSAL - GITHUB PAGES (V2)
+
+Upload 5 file ngang hàng trong cùng repository:
+1. index.html
+2. style.css
+3. script.js
+4. logo-cfl.jpg
+5. logo-35-years.jpg
+
+Khong tao thu muc con.
+
+Sau khi upload:
+Settings > Pages > Build and deployment > Deploy from a branch > main / root > Save.
+
+Cap nhat V2:
+- Font Be Vietnam Pro (tai qua Google Fonts, khong can upload font file).
+- 4 tab: Thong tin chung / Cau truc mot buoi / Ke hoach 10 tuan / Vi du tuan 1.
+- Noi dung chinh hien thi song ngu Anh - Viet.
+- Tab Vi du tuan 1 co kich ban chi tiet 100 phut de trinh bay nhu mot buoi thuc te.
+- Responsive tren dien thoai.
+- Quet ngang trai/phai tren noi dung de doi tab.
+- Tab tu cuon ngang tren man hinh nho.
+- Nut toan man hinh o goc tren.
+- Phim mui ten trai/phai de chuyen tab khi trinh chieu tren may tinh.
+
+
+CẬP NHẬT V3:
+- Trên điện thoại, các thẻ ở tab “Cấu trúc một buổi” và “Kế hoạch 10 tuần” xếp dọc 1 cột, cuộn lên/xuống tự nhiên.
+- Không còn kéo ngang bên trong các nhóm thẻ.
+- Vẫn có thể quẹt trái/phải trên nội dung để chuyển giữa 4 tab.
